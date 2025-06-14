@@ -1,16 +1,5 @@
-# weather_tdd_bloc_app
+# weather_tdd_clean_architecture_bloc_app
 
-A new Flutter project.
+Developed a weather application using Flutter, structured with Clean Architecture and state-managed via the BLoC pattern. The project followed Test-Driven Development (TDD) practices to ensure modularity, maintainability, and high test coverage.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TDD| Clean Architecture | SOLID | Bloc
